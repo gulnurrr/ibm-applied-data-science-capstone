@@ -26,6 +26,7 @@ ibm-applied-data-science-capstone/
 ├── reports/
 ├── README.md
 └── requirements.txt
+```
 
 ## Workflow
 1. Data Collection (API & Web Scraping)
@@ -41,3 +42,4 @@ A machine learning model that predicts whether the first stage will land success
 ---
 
 > This project is part of the IBM Applied Data Science Professional Certificate.
+
