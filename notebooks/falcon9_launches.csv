@@ -1,0 +1,122 @@
+Flight No.,Launch site,"Version, Booster",Date,Time,Payload,Payload mass,Orbit,Customer,Launch outcome,Booster landing
+1,CCAFS,F9 v1.0B0003.1,"4 June 2010,18:45",,Dragon Spacecraft Qualification Unit,,LEO,SpaceX,Success,Failure (parachute)
+2,CCAFS,F9 v1.0B0004.1,"8 December 2010,15:43",,Dragon demo flight C1 (Dragon C101),,LEO ( ISS ),NASA ( COTS ) NRO,Success,Failure (parachute)
+3,CCAFS,F9 v1.0B0005.1,"22 May 2012,07:44",,Dragon demo flight C2+ (Dragon C102),525.0,LEO ( ISS ),NASA ( COTS ),Success,No attempt
+4,CCAFS,F9 v1.0B0006.1,"8 October 2012,00:35",,SpaceX CRS-1 (Dragon C103),4700.0,LEO ( ISS ),NASA ( CRS ),Success,No attempt
+5,CCAFS,F9 v1.0B0007.1,"1 March 2013,15:10",,SpaceX CRS-2 (Dragon C104),4877.0,LEO ( ISS ),NASA ( CRS ),Success,No attempt
+6,VAFB,F9 v1.1B1003,"29 September 2013,16:00",,CASSIOPE,500.0,Polar orbit LEO,MDA,Success,Uncontrolled (ocean)
+7,CCAFS,F9 v1.1B1004,"3 December 2013,22:41",,SES-8,3170.0,GTO,SES,Success,No attempt
+8,CCAFS,F9 v1.1,"6 January 2014,22:06",,Thaicom 6,3325.0,GTO,Thaicom,Success,No attempt
+9,Cape Canaveral,F9 v1.1,"18 April 2014,19:25",,SpaceX CRS-3 (Dragon C105),2296.0,LEO ( ISS ),NASA ( CRS ),Success,Controlled (ocean)
+10,Cape Canaveral,F9 v1.1,"14 July 2014,15:15",,Orbcomm-OG2 -1 (6 satellites),1316.0,LEO,Orbcomm,Success,Controlled (ocean)
+11,Cape Canaveral,F9 v1.1,"5 August 2014,08:00",,AsiaSat 8,4535.0,GTO,AsiaSat,Success,No attempt
+12,Cape Canaveral,F9 v1.1B1011,"7 September 2014,05:00",,AsiaSat 6,4428.0,GTO,AsiaSat,Success,No attempt
+13,Cape Canaveral,F9 v1.1B1010,"21 September 2014,05:52",,SpaceX CRS-4 (Dragon C106 .1),2216.0,LEO ( ISS ),NASA ( CRS ),Success,Uncontrolled (ocean)
+14,Cape Canaveral,F9 v1.1B1012,"10 January 2015,09:47",,SpaceX CRS-5 (Dragon C107),2395.0,LEO ( ISS ),NASA ( CRS ),Success,Failure (drone ship)
+15,Cape Canaveral,F9 v1.1B1013,"11 February 2015,23:03",,DSCOVR,570.0,HEO ( Sun–Earth L 1 insertion),USAF NASA NOAA,Success,Controlled (ocean)
+16,Cape Canaveral,F9 v1.1B1014,"2 March 2015,03:50",,ABS-3A Eutelsat 115 West B,4159.0,GTO,ABS Eutelsat,Success,No attempt
+17,Cape Canaveral,F9 v1.1B1015,"14 April 2015,20:10",,SpaceX CRS-6 (Dragon C108.1 ),1898.0,LEO ( ISS ),NASA ( CRS ),Success,Failure (drone ship)
+18,Cape Canaveral,F9 v1.1B1016,"27 April 2015,23:03",,TürkmenÄlem 52°E / MonacoSAT,4707.0,GTO,Turkmenistan National Space Agency,Success,No attempt
+19,Cape Canaveral,F9 v1.1B1018,"28 June 2015,14:21",,SpaceX CRS-7 (Dragon C109),1952.0,LEO ( ISS ),NASA ( CRS ),Failure (in flight),Precluded (drone ship)
+20,Cape Canaveral,F9 FTB1019.1,"22 December 2015,01:29",,Orbcomm-OG2 -2 (11 satellites),2034.0,LEO,Orbcomm,Success,Success (ground pad)
+21,VAFB,F9 v1.1B1017,"17 January 2016,18:42",,Jason-3,553.0,LEO,NASA ( LSP ) NOAA CNES,Success,Failure (drone ship)
+22,Cape Canaveral,F9 FTB1020.1,"4 March 2016,23:35",,SES-9,5271.0,GTO,SES,Success,Failure (drone ship)
+23,Cape Canaveral,F9 FTB1021.1,"8 April 2016,20:43",,SpaceX CRS-8 (Dragon C110.1),3136.0,LEO ( ISS ),NASA ( CRS ),Success,Success (drone ship)
+24,Cape Canaveral,F9 FTB1022.1,"6 May 2016,05:21",,JCSAT-14,4696.0,GTO,SKY Perfect JSAT Group,Success,Success (drone ship)
+25,Cape Canaveral,F9 FTB1023.1,"27 May 2016,21:39",,Thaicom 8,3100.0,GTO,Thaicom,Success,Success (drone ship)
+26,Cape Canaveral,F9 FTB1024.1,"15 June 2016,14:29",,ABS-2A Eutelsat 117 West B,3600.0,GTO,ABS Eutelsat,Success,Failure (drone ship)
+27,Cape Canaveral,F9 FTB1025.1,"18 July 2016,04:45",,SpaceX CRS-9 (Dragon C111.1),2257.0,LEO ( ISS ),NASA ( CRS ),Success,Success (ground pad)
+28,Cape Canaveral,F9 FTB1026.1,"14 August 2016,05:26",,JCSAT-16,4600.0,GTO,SKY Perfect JSAT Group,Success,Success (drone ship)
+29,VAFB,F9 FTB1029.1,"14 January 2017,17:54",,Iridium NEXT -1 (10 satellites),9600.0,Polar LEO,Iridium Communications,Success,Success (drone ship)
+30,KSC,F9 FTB1031.1,"19 February 2017,14:39",,SpaceX CRS-10 (Dragon C112.1),2490.0,LEO ( ISS ),NASA ( CRS ),Success,Success (ground pad)
+31,KSC,F9 FTB1030.1,"16 March 2017,06:00",,EchoStar 23,5600.0,GTO,EchoStar,Success,No attempt
+32,KSC,F9 FT ♺B1021.2,"30 March 2017,22:27",,SES-10,5300.0,GTO,SES,Success,Success (drone ship)
+33,KSC,F9 FTB1032.1,"1 May 2017,11:15",,NROL-76,,LEO,NRO,Success,Success (ground pad)
+34,KSC,F9 FTB1034.1,"15 May 2017,23:21",,Inmarsat-5 F4,6070.0,GTO,Inmarsat,Success,No attempt
+35,KSC,F9 FTB1035.1,"3 June 2017,21:07",,SpaceX CRS-11 (Dragon C106.2 ♺),2708.0,LEO ( ISS ),NASA ( CRS ),Success,Success (ground pad)
+36,KSC,F9 FT ♺ B1029.2,"23 June 2017,19:10",,BulgariaSat-1,3669.0,GTO,Bulsatcom,Success,Success (drone ship)
+37,VAFB,F9 FTB1036.1,"25 June 2017,20:25",,Iridium NEXT -2 (10 satellites),9600.0,LEO,Iridium Communications,Success,Success (drone ship)
+38,KSC,F9 FTB1037.1,"5 July 2017,23:38",,Intelsat 35e,6761.0,GTO,Intelsat,Success,No attempt
+39,KSC,F9 B4B1039.1,"14 August 2017,16:31",,SpaceX CRS-12 (Dragon C113.1),3310.0,LEO ( ISS ),NASA ( CRS ),Success,Success (ground pad)
+40,VAFB,F9 FTB1038.1,"24 August 2017,18:51",,Formosat-5,475.0,SSO,NSPO,Success,Success (drone ship)
+41,KSC,F9 B4B1040.1,"7 September 2017,14:00",,Boeing X-37B OTV-5,4990.0,LEO,USAF,Success,Success (ground pad)
+42,VAFB,F9 B4B1041.1,"9 October 2017,12:37",,Iridium NEXT -3 (10 satellites),9600.0,Polar LEO,Iridium Communications,Success,Success (drone ship)
+43,KSC,F9 FT ♺ B1031.2,"11 October 2017,22:53:00",,SES-11 / EchoStar 105,5200.0,GTO,SES S.A. EchoStar,Success,Success (drone ship)
+44,KSC,F9 B4B1042.1,"30 October 2017,19:34",,Koreasat 5A,3500.0,GTO,KT Corporation,Success,Success (drone ship)
+45,Cape Canaveral,F9 FT ♺ B1035.2,"15 December 2017,15:36",,SpaceX CRS-13 (Dragon C108.2 ♺),2205.0,LEO ( ISS ),NASA ( CRS ),Success,Success (ground pad)
+46,VAFB,F9 FT ♺ B1036.2,"23 December 2017,01:27",,Iridium NEXT -4 (10 satellites),9600.0,Polar LEO,Iridium Communications,Success,Controlled (ocean)
+47,CCAFS,F9 B4B1043.1,"8 January 2018,01:00",,Zuma,,LEO,Northrop Grumman,Success,Success (ground pad)
+48,CCAFS,F9 FT ♺ B1032.2,"31 January 2018,21:25",,GovSat-1 (SES-16),4230.0,GTO,SES,Success,Controlled (ocean)
+49,VAFB,F9 FT ♺B1038.2,"22 February 2018,14:17",,Paz Tintin A and Tintin B,2150.0,SSO,Hisdesat exactEarth SpaceX,Success,No attempt
+50,CCAFS,F9 B4B1044.1,"6 March 2018,05:33",,Hispasat 30W-6 PODSat,6092.0,GTO,Hispasat NovaWurks,Success,No attempt
+51,VAFB,F9 B4 ♺B1041.2,"30 March 2018,14:14",,Iridium NEXT -5 (10 satellites),9600.0,Polar LEO,Iridium Communications,Success,No attempt
+52,CCAFS,F9 B4 ♺B1039.2,"2 April 2018,20:30",,SpaceX CRS-14 (Dragon C110.2 ♺),2647.0,LEO ( ISS ),NASA ( CRS ),Success,No attempt
+53,CCAFS,F9 B4B1045.1,"18 April 2018,22:51",,Transiting Exoplanet Survey Satellite (TESS),362.0,HEO for P/2 orbit,NASA ( LSP ),Success,Success (drone ship)
+54,KSC,F9 B5B1046.1,"11 May 2018,20:14",,Bangabandhu-1,3600.0,GTO,Thales-Alenia / BTRC,Success,Success (drone ship)
+55,VAFB,F9 B4 ♺B1043.2,"22 May 2018,19:47",,Iridium NEXT -6 (5 satellites) GRACE-FO × 2,6460.0,Polar LEO,Iridium Communications GFZ • NASA,Success,No attempt
+56,CCAFS,F9 B4 ♺B1040.2,"4 June 2018,04:45",,SES-12,5384.0,GTO,SES,Success,No attempt
+57,CCAFS,F9 B4 ♺B1045.2,"29 June 2018,09:42",,SpaceX CRS-15 (Dragon C111.2 ♺),2697.0,LEO ( ISS ),NASA ( CRS ),Success,No attempt
+58,CCAFS,F9 B5B1047.1,"22 July 2018,05:50",,Telstar 19V,7075.0,GTO,Telesat,Success,Success (drone ship)
+59,VAFB,F9 B5B1048.1,"25 July 2018,11:39",,Iridium NEXT -7 (10 satellites),9600.0,Polar LEO,Iridium Communications,Success,Success (drone ship)
+60,CCAFS,F9 B5 ♺ B1046.2,"7 August 2018,05:18",,Merah Putih (formerly Telkom 4),5800.0,GTO,Telkom Indonesia,Success,Success (drone ship)
+61,CCAFS,F9 B5B1049.1,"10 September 2018,04:45",,Telstar 18V / Apstar -5C,7060.0,GTO,Telesat,Success,Success (drone ship)
+62,VAFB,F9 B5 ♺B1048.2,"8 October 2018,02:22",,SAOCOM 1A,3000.0,SSO,CONAE,Success,Success (ground pad)
+63,KSC,F9 B5 ♺B1047.2,"15 November 2018,20:46",,Es'hail 2,5300.0,GTO,Es'hailSat,Success,Success (drone ship)
+64,VAFB,F9 B5 ♺ B1046.3SHERPA,"3 December 2018,18:34:05",,SSO-A ( SmallSat Express ),4000.0,SSO,Spaceflight Industries,Success,Success (drone ship)
+65,CCAFS,F9 B5B1050,"5 December 2018,18:16",,SpaceX CRS-16 (Dragon C112.2♺ ),2500.0,LEO ( ISS ),NASA ( CRS ),Success,Failure (ground pad)
+66,CCAFS,F9 B5B1054,"23 December 2018,13:51",,GPS III - 01 ( Vespucci ),4400.0,MEO,USAF,Success,No attempt
+67,VAFB,F9 B5 ♺B1049.2,"11 January 2019,15:31",,Iridium NEXT -8 (10 satellites),9600.0,Polar LEO,Iridium Communications,Success,Success (drone ship)
+68,CCAFS,F9 B5 ♺B1048.3,"22 February 2019,01:45",,Nusantara Satu (PSN-6) Beresheet Moon lander S5,4850.0,GTO,PSN SpaceIL / IAI Air Force Research,Success,Success (drone ship)
+69,KSC,F9 B5B1051.1,"2 March 2019,07:49",,Crew Dragon Demo-1 (Dragon C201),12055.0,LEO ( ISS ),NASA ( CCD ),Success,Success (drone ship)
+70,CCAFS,F9 B5B1056.1,"4 May 2019,06:48",,SpaceX CRS-17 (Dragon C113.2 ♺),2495.0,LEO ( ISS ),NASA ( CRS ),Success,Success (drone ship)
+71,CCAFS,F9 B5 ♺B1049.3,"24 May 2019,02:30",,Starlink v0.9 (60 satellites),13620.0,LEO,SpaceX,Success,Success (drone ship)
+72,VAFB,F9 B5 ♺B1051.2,"12 June 2019,14:17",,RADARSAT Constellation (3 satellites),4200.0,SSO,Canadian Space Agency (CSA),Success,Success (ground pad)
+73,CCAFS,F9 B5 ♺B1056.2,"25 July 2019,22:01",,SpaceX CRS-18 ( Dragon C108 .3 ♺),2268.0,LEO ( ISS ),NASA ( CRS ),Success,Success (ground pad)
+74,CCAFS,F9 B5 ♺B1047.3,"6 August 2019,23:23",,AMOS-17,6500.0,GTO,Spacecom,Success,No attempt
+75,CCAFS,F9 B5 ♺B1048.4,"11 November 2019,14:56",,Starlink 1 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+76,CCAFS,F9 B5B1059.1,"5 December 2019,17:29",,SpaceX CRS-19 (Dragon C106.3 ♺),2617.0,LEO ( ISS ),NASA ( CRS ),Success,Success (drone ship)
+77,CCAFS,F9 B5 ♺B1056.3,"17 December 2019,00:10",,JCSat-18 / Kacific 1,6956.0,GTO,Sky Perfect JSAT Kacific 1,Success,Success (drone ship)
+78,CCAFS,F9 B5 ♺ B1049.4,"7 January 2020,02:19:21",,Starlink 2 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+79,KSC,F9 B5 ♺ B1046.4,"19 January 2020,15:30",,Crew Dragon in-flight abort test (Dragon C205.1),12050.0,Sub-orbital,NASA ( CTS ),Success,No attempt
+80,CCAFS,F9 B5 ♺B1051.3,"29 January 2020,14:07",,Starlink 3 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+81,CCAFS,F9 B5 ♺B1056.4,"17 February 2020,15:05",,Starlink 4 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Failure (drone ship)
+82,CCAFS,F9 B5 ♺B1059.2,"7 March 2020,04:50",,SpaceX CRS-20 (Dragon C112.3 ♺),1977.0,LEO ( ISS ),NASA ( CRS ),Success,Success (ground pad)
+83,KSC,F9 B5 ♺ B1048.5,"18 March 2020,12:16",,Starlink 5 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Failure (drone ship)
+84,KSC,F9 B5 ♺B1051.4,"22 April 2020,19:30",,Starlink 6 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+85,KSC,F9 B5B1058.1,"30 May 2020,19:22",,Crew Dragon Demo-2 ( Crew Dragon C206.1 Endeavour ),12530.0,LEO ( ISS ),NASA ( CCDev ),Success,Success (drone ship)
+86,CCAFS,F9 B5 ♺B1049.5,"4 June 2020,01:25",,Starlink 7 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+87,CCAFS,F9 B5 ♺B1059.3,"13 June 2020,09:21",,"Starlink 8 v1.0 (58 satellites), SkySats -16, -17, -18",15410.0,LEO,SpaceX Planet Labs,Success,Success (drone ship)
+88,CCAFS,F9 B5B1060.1,"30 June 2020,20:10:46",,GPS III - 03 ( Matthew Henson ),4311.0,MEO,U.S. Space Force,Success,Success (drone ship)
+89,CCAFS,F9 B5 ♺ B1058.2,"20 July 2020,21:30",,ANASIS-II,5000.0,GTO,Republic of Korea Army,Success,Success (drone ship)
+90,KSC,F9 B5 ♺B1051.5,"7 August 2020,05:12",,"Starlink 9 v1.0 (57 Satellites), SXRS-1 (BlackSky Global 7 and 8)",14932.0,LEO,SpaceX Spaceflight Industries (BlackSky),Success,Success (drone ship)
+91,CCAFS,F9 B5 ♺B1049.6,18 August 2020 14:31,,"Starlink 10 v1.0 (58 satellites) SkySat -19, -20, -21",15440.0,LEO,SpaceX Planet Labs,Success,Success (drone ship)
+92,CCAFS,F9 B5 ♺B1059.4,30 August 202023:18,,SAOCOM 1B GNOMES 1 Tyvak-0172,3130.0,SSO,CONAE PlanetIQ Tyvak,Success,Success (ground pad)
+93,KSC,F9 B5 ♺B1060.2,3 September 202012:46:14,,Starlink 11 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+94,KSC,F9 B5 ♺B1058.3,6 October 202011:29:34,,Starlink 12 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+95,KSC,F9 B5 ♺B1051.6,18 October 202012:25:57,,Starlink 13 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+96,CCAFS,F9 B5 ♺B1060.3,24 October 202015:31:34,,Starlink 14 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+97,CCAFS,F9 B5B1062.1,5 November 202023:24:23,,GPS III - 04 ( Sacagawea ),4311.0,MEO,USSF,Success,Success (drone ship)
+98,KSC,F9 B5B1061.1,16 November 202000:27,,Crew-1 ( Crew Dragon C207.1 Resilience ),12500.0,LEO ( ISS ),NASA ( CCP ),Success,Success (drone ship)
+99,VAFB,F9 B5B1063.1,21 November 202017:17:08,,Sentinel-6 Michael Freilich (Jason-CS A),1192.0,LEO,NASA / NOAA / ESA / EUMETSAT,Success,Success (ground pad)
+100,CCAFS,F9 B5 ♺B1049.7,25 November 202002:13,,Starlink 15 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+101,KSC,F9 B5 ♺B1058.4,6 December 202016:17:08,,SpaceX CRS-21 (Dragon C208.1),2972.0,LEO ( ISS ),NASA ( CRS ),Success,Success (drone ship)
+102,CCSFS,F9 B5 ♺B1051.7,13 December 202017:30:00,,SXM-7,7000.0,GTO,Sirius XM,Success,Success (drone ship)
+103,KSC,F9 B5 ♺B1059.5,19 December 202014:00:00,,NROL-108,,LEO,NRO,Success,Success (ground pad)
+104,CCSFS,F9 B5 ♺B1060.4,8 January 202102:15,,Türksat 5A,3500.0,GTO,Türksat,Success,Success (drone ship)
+105,KSC,F9 B5 ♺B1051.8,20 January 202113:02,,Starlink 16 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+106,CCSFS,F9 B5 ♺B1058.5,24 January 202115:00,,Transporter-1 ( 143 smallsat rideshare ),5000.0,SSO,Various,Success,Success (drone ship)
+107,CCSFS,F9 B5 ♺B1060.5,4 February 2021 06:19,,Starlink 18 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+108,CCSFS,F9 B5 ♺B1059.6,16 February 202103:59:37,,Starlink 19 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Failure (drone ship)
+109,KSC,F9 B5 ♺B1049.8,4 March 202108:24,,Starlink 17 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+110,CCSFS,F9 B5 ♺B1058.6,11 March 202108:13:29,,Starlink 20 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+111,KSC,F9 B5 ♺B1051.9,14 March 202110:01,,Starlink 21 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+112,CCSFS,F9 B5 ♺B1060.6,24 March 202108:28,,Starlink 22 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+113,CCSFS,F9 B5 ♺B1058.7,7 April 202116:34,,Starlink 23 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+114,KSC,F9 B5 ♺B1061.2,23 April 20219:49,,Crew-2 ( Crew Dragon C206.2 Endeavour ♺),13000.0,LEO ( ISS ),NASA ( CTS ),Success,Success (drone ship)
+115,CCSFS,F9 B5 ♺B1060.7,29 April 202103:44,,Starlink 24 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+116,KSC,F9 B5 ♺B1049.9,4 May 202119:01,,Starlink 25 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+117,CCSFS,F9 B5 ♺B1051.10,9 May 202106:42,,Starlink 27 v1.0 (60 satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+118,KSC,F9 B5 ♺B1058.8,15 May 202122:56,,Starlink 26 v1.0 (52 Satellites) Capella -6 & Tyvak -0130,14000.0,LEO,SpaceX Capella Space and Tyvak,Success,Success (drone ship)
+119,CCSFS,F9 B5 ♺B1063.2,26 May 202118:59,,Starlink 28 v1.0 (60 Satellites),15600.0,LEO,SpaceX,Success,Success (drone ship)
+120,KSC,F9 B5 B1067.1,3 June 202117:29,,SpaceX CRS-22 ( Dragon C209.1 ),3328.0,LEO ( ISS ),NASA ( CRS ),Success,Success (drone ship)
+121,CCSFS,F9 B5 ♺ B1061.3,6 June 202104:26,,SXM-8,7000.0,GTO,Sirius XM,Success,Success (drone ship)
